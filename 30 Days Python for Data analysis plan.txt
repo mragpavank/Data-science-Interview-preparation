@@ -1,0 +1,28 @@
+
+Days 1-5: Introduction to Python
+1. Day 1: Install Python and a code editor (e.g., Anaconda, Jupyter Notebook).
+2. Day 2-5: Learn Python basics (variables, data types, and basic operations).
+
+Days 6-10: Control Flow and Functions
+6. Day 6-8: Study control flow (if statements, loops).
+9. Day 9-10: Learn about functions and modules in Python.
+
+Days 11-15: Data Structures
+11. Day 11-12: Explore lists, tuples, and dictionaries.
+13. Day 13-15: Study sets and string manipulation.
+
+Days 16-20: Libraries for Data Analysis
+16. Day 16-17: Get familiar with NumPy for numerical operations.
+18. Day 18-19: Dive into Pandas for data manipulation.
+20. Day 20: Basic data visualization with Matplotlib.
+
+Days 21-25: Data Cleaning and Analysis
+21. Day 21-22: Data cleaning and preprocessing using Pandas.
+23. Day 23-25: Exploratory data analysis (EDA) techniques.
+
+Days 26-30: Advanced Topics
+26. Day 26-27: Introduction to data visualization with Seaborn.
+27. Day 28-29: Introduction to machine learning with Scikit-Learn.
+30. Day 30: Create a small data analysis project.
+
+Use platforms like Kaggle to find datasets for projects and HackerRank to practice coding problems.
